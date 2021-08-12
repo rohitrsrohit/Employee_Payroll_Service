@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeePayrollService">
+  <component name="RunManager" selected="Gradle.NIOFileAPITest.givenPathWhenCheckedThenConfirm">
     <configuration name="EmployeePayrollData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.EmployeePayrollData" />
       <module name="EmployeePayrollService.main" />
@@ -67,8 +67,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NIOFileAPITest.givenPathWhenCheckedThenConfirm" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.bridgelabz.NIOFileAPITest.givenPathWhenCheckedThenConfirm&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.NIOFileAPITest.givenPathWhenCheckedThenConfirm" />
         <item itemvalue="Application.EmployeePayrollData" />
         <item itemvalue="Application.EmployeePayrollService" />
       </list>
