@@ -17,4 +17,3 @@ public class EmployeePayrollData {
                 ", salary=" + salary;
     }
 }
-

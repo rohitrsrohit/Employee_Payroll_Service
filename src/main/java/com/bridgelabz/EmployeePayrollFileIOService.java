@@ -8,9 +8,9 @@ import java.util.List;
 public class EmployeePayrollFileIOService {
     public static String PAYROLL_FILE_NAME = "payroll-file.txt";
 
-    public void writeData(List<EmployeePayrollData> employeePayrollList) {
+    public void writeData(List<EmployeePayrollData> employeePayrollDataList) {
         StringBuffer empBuffer = new StringBuffer();
-        employeePayrollList.forEach(employee -> {
+        employeePayrollDataList.forEach(employee -> {
             String employeeDataString = employee.toString().concat("\n");
             empBuffer.append(employeeDataString);
         });
