@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeePayrollData">
+  <component name="RunManager" selected="Application.EmployeePayrollService">
     <configuration name="EmployeePayrollData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.EmployeePayrollData" />
       <module name="EmployeePayrollService.main" />
