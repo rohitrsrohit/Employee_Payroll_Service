@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgelabz.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T15:40:42" hostname="DESKTOP-1HA67S6" time="0.184">
+<testsuite name="com.bridgelabz.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T15:45:24" hostname="DESKTOP-1HA67S6" time="0.127">
   <properties/>
-  <testcase name="givenPathWhenCheckedThenConfirm" classname="com.bridgelabz.NIOFileAPITest" time="0.184"/>
+  <testcase name="givenPathWhenCheckedThenConfirm" classname="com.bridgelabz.NIOFileAPITest" time="0.127"/>
   <system-out><![CDATA[C:\Users\JPSS\TempPlayGround\temp1
 C:\Users\JPSS\TempPlayGround\temp2
 C:\Users\JPSS\TempPlayGround\temp3
