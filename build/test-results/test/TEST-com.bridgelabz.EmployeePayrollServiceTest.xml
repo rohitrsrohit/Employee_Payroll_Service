@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.EmployeePayrollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-12T15:55:14" hostname="DESKTOP-1HA67S6" time="0.011">
+  <properties/>
+  <testcase name="given3EmployeeWhenWrittenToFileShouldMatchEmployeeEntries" classname="com.bridgelabz.EmployeePayrollServiceTest" time="0.011"/>
+  <system-out><![CDATA[
+Writing Employee Payroll Roster to console
+[id=1, name='Jeff Bezos', salary=100000.0, id=2, name='Bill Gates', salary=200000.0, id=3, name='Mark Zuckerbarg', salary=300000.0]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
