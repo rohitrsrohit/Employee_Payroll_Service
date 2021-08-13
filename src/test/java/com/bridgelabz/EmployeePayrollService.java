@@ -26,7 +26,7 @@ public class EmployeePayrollService {
         return 0;
     }
 
-    public enum IOService {CONSOLE_IO, FILE_IO,DB_IO, REST_IO}
+    public enum IOService {CONSOLE_IO, FILE_IO}
     private List<EmployeePayrollData> employeePayrollList;
 
     public EmployeePayrollService() {}

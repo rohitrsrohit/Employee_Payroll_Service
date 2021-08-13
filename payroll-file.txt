@@ -1,1 +1,1 @@
-id=247, name='RS', salary=7897.0
+id=247, name='RS', salary=78970.0
